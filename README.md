@@ -23,10 +23,10 @@ TradeMine
 แอปพลิเคชันสำหรับการเทรดที่ออกแบบมาเพื่อความสะดวกและเข้าใจง่าย มีฟีเจอร์ Auto Trade เพื่อช่วยให้ผู้ใช้งานสามารถตั้งค่าและให้ระบบเทรดแทนได้, รองรับการดูกราฟหุ้นและข้อมูลตลาด แบบ Real-time, และมีระบบ เติมเงินเข้าพอร์ตเพื่อใช้ในการเทรด
 ผมรับผิดชอบการออกแบบ UX/UI ด้วย Figma ออกแบบหน้าจอ (UI) ให้ผู้ใช้สามารถใช้งานได้ง่าย เหมาะสำหรับทั้งผู้เริ่มต้นและผู้ที่มีประสบการณ์เทรด 
 
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/dd88c91f-dc1d-47ed-8118-883b0ccaea62" />
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8bbcfcf4-d47a-42a9-a746-13079339061e" />
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/6e8b96da-6ef3-470e-af73-3720c6b865b7" />
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/a3f9c06a-e537-4585-b036-9bd7ff114bce" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/dd88c91f-dc1d-47ed-8118-883b0ccaea62" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/8bbcfcf4-d47a-42a9-a746-13079339061e" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/6e8b96da-6ef3-470e-af73-3720c6b865b7" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/a3f9c06a-e537-4585-b036-9bd7ff114bce" />
 
 
 
