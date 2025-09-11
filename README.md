@@ -19,9 +19,8 @@ skill
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/FUNDY002" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-
-TradeMine
 -------
+TradeMine 
 แอปพลิเคชันสำหรับการเทรดที่ออกแบบมาเพื่อความสะดวกและเข้าใจง่าย มีฟีเจอร์ Auto Trade เพื่อช่วยให้ผู้ใช้งานสามารถตั้งค่าและให้ระบบเทรดแทนได้, รองรับการดูกราฟหุ้นและข้อมูลตลาด แบบ Real-time, และมีระบบ เติมเงินเข้าพอร์ตเพื่อใช้ในการเทรด
 ผมรับผิดชอบการออกแบบ UX/UI ด้วย Figma ออกแบบหน้าจอ (UI) ให้ผู้ใช้สามารถใช้งานได้ง่าย เหมาะสำหรับทั้งผู้เริ่มต้นและผู้ที่มีประสบการณ์เทรด 
 
