@@ -28,7 +28,7 @@ TradeMine
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/6e8b96da-6ef3-470e-af73-3720c6b865b7" />
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/a3f9c06a-e537-4585-b036-9bd7ff114bce" />
 <br>
-My link Projacr <a href="https://www.figma.com/design/PpsOktW5jnVEPPSs6uGIqf/Stock-app?node-id=0-1&p=f&t=64jk7clrUdbmYNQ1-0" target="_blank"></a>
+My link Projacr <a href="https://www.figma.com/design/PpsOktW5jnVEPPSs6uGIqf/Stock-app?node-id=0-1&p=f&t=64jk7clrUdbmYNQ1-0" target="_blank">go to </a>
 
 
 
