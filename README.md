@@ -30,7 +30,8 @@ TradeMine
 <br>
 <br>
 ลิงก์โปรเจกต์ <a href="https://www.figma.com/design/PpsOktW5jnVEPPSs6uGIqf/Stock-app?node-id=0-1&p=f&t=64jk7clrUdbmYNQ1-0" target="_blank">ดูผลงาน TradeMine บน Figma </a>
-
+<br>
+<br>
 
 Bestpick
 --------
