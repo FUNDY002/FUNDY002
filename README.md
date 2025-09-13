@@ -42,6 +42,8 @@ Bestpick
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/5bd33af0-ec48-4de5-97bc-74abed01e932" />
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/a7005600-58fb-4bfe-9092-0bc2b03a57fc" />
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/2b4867a9-6044-4066-aa55-9adc5327b0f7" />
+<br>
+<br>
 ลิงก์โปรเจกต์ <a href="https://www.figma.com/design/Vsb7CRkTY7jmEYRlkGsKgA/%E0%B8%BAApp-Best-pick-V2?node-id=0-1&p=f&t=ev9ofojh5rjpELPb-0" target="_blank">ดูผลงาน TradeMine บน Figma </a>
 
 
