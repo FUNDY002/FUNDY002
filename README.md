@@ -40,7 +40,7 @@ Bestpick
 
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/df8f0c94-ced7-483c-a328-fb93b4b1e91d" />
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/5bd33af0-ec48-4de5-97bc-74abed01e932" />
-<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/ece3e9a0-8f47-4d99-be75-ff9f2cc7d651" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/a7005600-58fb-4bfe-9092-0bc2b03a57fc" />
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/2b4867a9-6044-4066-aa55-9adc5327b0f7" />
 
 
