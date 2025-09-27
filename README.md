@@ -1,4 +1,4 @@
-<img width="216" height="473" alt="image" src="https://github.com/user-attachments/assets/b49232da-0d49-43af-bc41-458ffc74e9f2" />Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sirasak Nakbalee
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sirasak Nakbalee
 =========================================================================================================================================
 
 student
