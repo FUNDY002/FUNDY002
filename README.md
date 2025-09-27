@@ -67,12 +67,12 @@ Doctor Search & Appointment App
 
 Tax Assistant App
 --------
-เว็บแอพที่ออกแบบมาเพื่อช่วยให้ผู้ใช้งานสามารถ ค้นหาแพทย์เฉพาะทาง จองคิวออนไลน์ และติดตามการนัดหมาย ได้ง่ายดาย โดยมีหน้ารวมหมอตามสาขา เช่น อายุรกรรม, จักษุ, จิตเวช ฯลฯ พร้อมรายละเอียดแพทย์และข้อมูลการให้บริการ
+แอพผู้ช่วยด้านภาษีที่ออกแบบมาเพื่อช่วยให้ผู้ใช้งานสามารถจัดการข้อมูลภาษีได้สะดวกและเข้าใจง่ายขึ้น โดยสามารถ ดาวน์โหลดแบบฟอร์ม, กรอกข้อมูลภาษี, คำนวณภาษีอัตโนมัติ และอัปโหลดเอกสารภาษี ได้ในที่เดียว พร้อมทั้งมีระบบ Chatbot สำหรับตอบคำถามและส่วน Q&A เพื่อช่วยผู้ใช้งานแก้ไขปัญหาที่พบบ่อย
 
-<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/7539e36f-12fb-45db-83f2-211edd92d58f" />
-<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/57412929-63db-49ba-a9bc-75ac9c45cf3e" />
-<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/30ebf743-521f-4291-9d29-c6703ed83836" />
-<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/0004af0f-7dfa-4340-80aa-a770ff5ef511" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/1e5fb27f-cc14-4bb0-880c-74ac6888b3a6" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/84179fff-8e13-4def-b934-2deb18bd1a23" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/71dc5d33-c9af-4a0c-b883-272fdfd69f81" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/4d080781-de8f-4bb6-9183-595bd5c7c64c" />
 <br>
 <br>
 ลิงก์โปรเจกต์ <a href="https://www.figma.com/design/y9LATdWqLYlvBBrrJteLFN/UXUI_TaxAssistant_SirasakNakbalee?t=hYdIcMhJu9YIogp2-0" target="_blank">ดูผลงาน Tax Assistant App บน Figma </a>
