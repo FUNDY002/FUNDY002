@@ -59,7 +59,7 @@ Doctor Search & Appointment App
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/0004af0f-7dfa-4340-80aa-a770ff5ef511" />
 <br>
 <br>
-ลิงก์โปรเจกต์ <a href="https:/[/www.figma.com/design/Vsb7CRkTY7jmEYRlkGsKgA/%E0%B8%BAApp-Best-pick-V2?node-id=0-1&p=f&t=ev9ofojh5rjpELPb-0](https://www.figma.com/design/1PQAKpb8Tvgm1IkpiRKeG5/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-UX-UI-Designer?node-id=0-1&p=f&t=1nL4e8AWXFzEFGK3-0)" target="_blank">ดูผลงาน Doctor Search & Appointment App บน Figma </a>
+ลิงก์โปรเจกต์ <a href="https://www.figma.com/design/Vsb7CRkTY7jmEYRlkGsKgA/%E0%B8%BAApp-Best-pick-V2?node-id=0-1&p=f&t=ev9ofojh5rjpELPb-0](https://www.figma.com/design/1PQAKpb8Tvgm1IkpiRKeG5/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-UX-UI-Designer?node-id=0-1&p=f&t=1nL4e8AWXFzEFGK3-0)" target="_blank">ดูผลงาน Doctor Search & Appointment App บน Figma </a>
 <br>
 <br>
 <br>
