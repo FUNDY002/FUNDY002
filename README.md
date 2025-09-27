@@ -59,7 +59,7 @@ Doctor Search & Appointment App
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/0004af0f-7dfa-4340-80aa-a770ff5ef511" />
 <br>
 <br>
-ลิงก์โปรเจกต์ <a href="[https://https://surl.li/dhvreh    ](https://shorturl.at/BRY4S)" target="_blank">ดูผลงาน Best pick บน Figma </a>
+ลิงก์โปรเจกต์ <a href="https://shorturl.at/BRY4S" target="_blank">ดูผลงาน Best pick บน Figma </a>
 <br>
 <br>
 <br>
