@@ -59,7 +59,7 @@ Doctor Search & Appointment App
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/0004af0f-7dfa-4340-80aa-a770ff5ef511" />
 <br>
 <br>
-ลิงก์โปรเจกต์ <a href="https://[www.figma.com/design/Vsb7CRkTY7jmEYRlkGsKgA/%E0%B8%BAApp-Best-pick-V2?node-id=0-1&p=f&t=ev9ofojh5rjpELPb-0](https://surl.li/bzkjjc)" target="_blank">ดูผลงาน Best pick บน Figma </a>
+ลิงก์โปรเจกต์ <a href="https://[www.figma.com/design/Vsb7CRkTY7jmEYRlkGsKgA/%E0%B8%BAApp-Best-pick-V2?node-id=0-1&p=f&t=ev9ofojh5rjpELPb-0](https://surl.li/bzkjjc)" target="_blank">ดูผลงาน Doctor Search & Appointment App บน Figma </a>
 
 
 
