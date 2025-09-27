@@ -59,11 +59,23 @@ Doctor Search & Appointment App
 <img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/0004af0f-7dfa-4340-80aa-a770ff5ef511" />
 <br>
 <br>
-ลิงก์โปรเจกต์ <a href="https://shorturl.at/BRY4S" target="_blank">ดูผลงาน Best pick บน Figma </a>
+ลิงก์โปรเจกต์ <a href="https://shorturl.at/BRY4S" target="_blank">ดูผลงาน Doctor Search & Appointment App บน Figma </a>
 <br>
 <br>
 <br>
 
+
+Tax Assistant App
+--------
+เว็บแอพที่ออกแบบมาเพื่อช่วยให้ผู้ใช้งานสามารถ ค้นหาแพทย์เฉพาะทาง จองคิวออนไลน์ และติดตามการนัดหมาย ได้ง่ายดาย โดยมีหน้ารวมหมอตามสาขา เช่น อายุรกรรม, จักษุ, จิตเวช ฯลฯ พร้อมรายละเอียดแพทย์และข้อมูลการให้บริการ
+
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/7539e36f-12fb-45db-83f2-211edd92d58f" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/57412929-63db-49ba-a9bc-75ac9c45cf3e" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/30ebf743-521f-4291-9d29-c6703ed83836" />
+<img width="200" height="430" alt="image" src="https://github.com/user-attachments/assets/0004af0f-7dfa-4340-80aa-a770ff5ef511" />
+<br>
+<br>
+ลิงก์โปรเจกต์ <a href="https://www.figma.com/design/y9LATdWqLYlvBBrrJteLFN/UXUI_TaxAssistant_SirasakNakbalee?t=hYdIcMhJu9YIogp2-0" target="_blank">ดูผลงาน Tax Assistant App บน Figma </a>
 
 
 
